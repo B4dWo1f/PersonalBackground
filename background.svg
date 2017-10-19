@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2560"
+   height="1600"
+   viewBox="0 0 2560 1600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="background.svg"
+   inkscape:export-filename="/home/ngarcia/test.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4159"
+       x="-0.01574129"
+       width="1.0314826"
+       y="-0.021015505"
+       height="1.042031">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.1322799"
+         id="feGaussianBlur4161" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4244"
+       x="-0.014264494"
+       width="1.028529"
+       y="-0.024386094"
+       height="1.0487722">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.9536665"
+         id="feGaussianBlur4246" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4225"
+       x="-0.013496426"
+       width="1.0269929"
+       y="-0.027014308"
+       height="1.0540286">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.978125"
+         id="feGaussianBlur4227" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="731.57201"
+     inkscape:cy="802.36869"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1380,656.20923)">
+    <image
+       sodipodi:absref="/home/ngarcia/CODES/desk/Greenish_by_EstebanMitnick.jpg"
+       xlink:href="Greenish_by_EstebanMitnick.jpg"
+       y="-656.20923"
+       x="-1380"
+       id="image4278"
+       preserveAspectRatio="none"
+       height="1600"
+       width="2560" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4225)"
+       id="rect4223"
+       width="885.23438"
+       height="442.26562"
+       x="-1366"
+       y="-610.20923" />
+    <image
+       sodipodi:absref="/home/ngarcia/CODES/desk/mundo.png"
+       xlink:href="mundo.png"
+       width="885.23438"
+       height="442.26562"
+       preserveAspectRatio="none"
+       id="image4255"
+       x="-1366"
+       y="-610.20923" />
+    <image
+       sodipodi:absref="/home/ngarcia/CODES/desk/attacks.png"
+       xlink:href="attacks.png"
+       width="885.23438"
+       height="442.26562"
+       preserveAspectRatio="none"
+       id="image4244"
+       x="-1366"
+       y="-610.20923" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4244)"
+       id="rect4161"
+       width="1001.7039"
+       height="585.94049"
+       x="-1366.0067"
+       y="344.14111" />
+    <image
+       sodipodi:absref="/home/ngarcia/CODES/desk/frentes.gif"
+       xlink:href="frentes.gif"
+       width="1003.4063"
+       height="589.14288"
+       preserveAspectRatio="none"
+       id="image4237"
+       x="-1366"
+       y="342.64792" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4159)"
+       id="rect4137"
+       width="782.49445"
+       height="586.11353"
+       x="381.99088"
+       y="344.1626" />
+    <image
+       sodipodi:absref="/home/ngarcia/CODES/desk/europe-0.jpg"
+       xlink:href="europe-0.jpg"
+       y="342.64792"
+       x="380.4762"
+       id="image4252"
+       preserveAspectRatio="none"
+       height="589.14288"
+       width="785.5238" />
+  </g>
+</svg>

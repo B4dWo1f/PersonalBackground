@@ -33,11 +33,26 @@ url2 = 'http://www.meteo.be/meteo/view/en/113200-ajaxcontroller.html/6723383/ima
 url3 = 'http://www.aemet.es/imagenes_d/eltiempo/prediccion/modelos_num/hirlam/%s00+012_ww_isx0w012.gif'%(now.strftime('%Y%m%d'))
 
 
-try: a,b = urlretrieve(url1, here+'/europe-0.jpg')
+def download_image(url,name):
+   tmp = '/tmp/%s'%(name)
+   a,b = urlretrieve(url1,tmp)
+   print(a)
+   print(b)
+   if b['Content-Type'].split(';') == 'image/jpeg':
+      os.system('mv %s %s'%(tmp,here+'/%s'%(name)))
+   else: print('wrong downloaded file')
+
+try:
+   download_image(url1,'europe-0.jpg')
+   #a,b = urlretrieve(url1,'/tmp/europe-0.jpg')
+   #if b['Content-Type'].split(';') == 'image/jpeg':
+   #   os.system('mv /tmp/europe-0.jpg %s'%(here+'/europe-0.jpg'))
+   #else: print('wrong downloaded file')
 except: pass
 #try: a,b = urlretrieve(url2, here+'/europe-1.jpg')
 #except: pass
-try: a,b = urlretrieve(url3, here+'/frentes.gif')
+try: #a,b = urlretrieve(url3, here+'/frentes.gif')
+   download_image(url3,'frentes.gif')
 except: pass
 
 
